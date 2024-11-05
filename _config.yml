@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-China"
+locale                   : "en-US"
 title                    : "Dixuan Qiao(乔迪暄)"   
 title_separator          : "-"
 name                     : &name "Your Name1"
