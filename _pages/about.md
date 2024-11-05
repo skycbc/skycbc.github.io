@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a undergraduate student from Shandong University(https://www.sdu.edu.cn/). My research interest is High-energy Physics.
+I'm a undergraduate student from Shandong University(https://www.sdu.edu.cn/). My research interest is High-energy Physics. I hope to have a good chance to get a Phd position.
 
 A data-driven personal website
 ======
