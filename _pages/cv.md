@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in ...
-* B.S. in GitHub, Shandong University, 2025(expected)
+* Ph.D in 
+* B.S. in Shandong University, 2025(expected)
 
 Work experience
 ======
