@@ -25,4 +25,4 @@ author_profile: true
 * Computational Physics and Experiment
 * Mechanical Drawing and CAD
 
-* [You can download the transcript here](files/English_Transcript.pdf)
+[You can download the transcript here](files/English_Transcript.pdf)
