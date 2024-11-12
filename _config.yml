@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : "qdxprofile.png"
-  name             : "Dixuan Qiao"
-  pronouns         : # example: "she/her"    
-  bio              : "I see you"
-  location         : "Earth"  
-  #employer         : "Red Brick University"
-  uri              : # URL  
-  email            : "1412492987@qq.com" 
+  avatar: "qdxprofile.png"
+  name: "Dixuan Qiao"
+  pronouns: "" # Add value like "she/her" or leave empty quotes if not applicable
+  bio: "I see you"
+  location: "Earth"
+  #employer: "Red Brick University" # Uncomment and add a value if needed
+  uri: "" # Add a URL or leave empty quotes if not applicable
+  email: "1412492987@qq.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
