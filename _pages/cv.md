@@ -62,5 +62,5 @@ redirect_from:
   * TOEFL: 83
   * CET6: 508
 
-* [You can download the PDF version here](./files/qdxCV.pdf)
+* [You can download the PDF version here](files/qdxCV.pdf)
 
