@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "COURSE"
+title: "Course"
 permalink: /course/
 author_profile: true
 ---
