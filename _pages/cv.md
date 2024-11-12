@@ -9,56 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## EDUCATION BACKGROUND
+* Ph.D in Physics, (I don't know now)
+* B.S. in Physics, Shandong University, 2025 (expected)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## RESEARCH EXPERIENCE
+* **Internal Three-Dimensional Structure of Nucleon**
+  * Repeated part of a master's thesis (DOI: CNKI:CDMD:2.1017.147177) by calculating structure and fragmentation functions in semi-inclusive deep inelastic scattering.
+  * Identified a minor calculation error in a particle physics book (ISBN: 978-7-03-047551-0, P272).
+  * Gained a comprehensive understanding of the quark model and parton model.
+  * Developed computational and analytical skills in QFT.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research on SNO+ Experiment**
+  * Conducted research on neutrino oscillation parameters from the perspectives of group theory.
+  * Investigated experimental setups and methodologies for neutrinoless double-beta decay.
+  * Completed shadowing shift training as part of the experimental team.
+  * Enhanced skills in team coordination, time management, and meeting organization.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## ACTIVITIES
+* **14th Chinese Particle Physics Academic Conference**
+  * Attended to gain insights into recent developments in hadron physics.
+  * Served as a conference volunteer, responsible for photography and post-production tasks.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **ICTP-AP Summer Camp**
+  * Explored the latest research in particle physics, focusing on gravitational waves and cosmology.
+  
+* **TDLI Astro-Division 2023 Winter Camp**
+  * Expanded knowledge in astrophysics through lectures and hands-on experience.
+  * Simulated the unstable evolution process of stellar systems.
+  * Acquired programming experience in Linux.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## AWARDS
+* Third Prize Scholarship, Shandong University
+* Second Prize, Shandong Provincial College Student Physics Innovation Competition
+
+## SKILLS
+* **Programming**
+  * C++
+  * Python
+  * Mathematica
+
+* **Engineering Software**
+  * Engineering Drawing
+  * Creo 9.0 (3D modeling)
+
+* **Additional Skills**
+  * Calculations
+  * Organization
+  * Communication
+
+* **Languages**
+  * TOEFL: 83
+  * CET6: 508
+
+* [You can download the PDF version here](files/qdxCV.pdf)
+
