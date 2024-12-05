@@ -11,7 +11,8 @@ redirect_from:
 
 ## EDUCATION BACKGROUND
 * Ph.D in Physics, (I don't know now)
-* B.S. in Physics, Shandong University, 2025 (expected)
+* B.S. in Physics, Shandong University, 2025.6 (expected)
+(Supplementary:	In fact I have transferred my major from Mechanical Engineering to Physics in second year, shifting academic focus.)
 
 ## RESEARCH EXPERIENCE
 * **Internal Three-Dimensional Structure of Nucleon**
@@ -40,7 +41,8 @@ redirect_from:
   * Acquired programming experience in Linux.
 
 ## AWARDS
-* Third Prize Scholarship, Shandong University
+* Third Prize Scholarship（2022）, Shandong University
+* Third Prize Scholarship（2024）, Shandong University
 * Second Prize, Shandong Provincial College Student Physics Innovation Competition
 
 ## SKILLS
@@ -58,9 +60,8 @@ redirect_from:
   * Organization
   * Communication
 
-* **Languages**
-  * TOEFL: 83
-  * CET6: 508
+## EXTRACURRICULAR INVOLVEMENT
+  * Organizer and Participant of Long-Distance Hiking Expeditions.
+  * Photographer at the University's Media Center, contributed to the coverage of numerous significant events.
 
 [You can download the PDF version here](files/qdxCV.pdf)
-
