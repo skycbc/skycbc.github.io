@@ -64,4 +64,4 @@ redirect_from:
   * Organizer and Participant of Long-Distance Hiking Expeditions.
   * Photographer at the University's Media Center, contributed to the coverage of numerous significant events.
 
-[You can download the PDF version here](files/qdxCV.pdf)
+[You can download the PDF version here](files/qdx_CV.pdf)
